@@ -1,0 +1,255 @@
+<chunk name="Object" index="0">
+  <items count="3">
+    <item name="GUID" type_name="gh_guid" type_code="9">719467e6-7cf5-4848-99b0-c5dd57e5442c</item>
+    <item name="Lib" type_name="gh_guid" type_code="9">066d0a87-236f-4eae-a0f4-9e42f5327962</item>
+    <item name="Name" type_name="gh_string" type_code="10">Python 3 Script</item>
+  </items>
+  <chunks count="1">
+    <chunk name="Container">
+      <items count="14">
+        <item name="Description" type_name="gh_string" type_code="10"></item>
+        <item name="GraftStandardOutputLines" type_name="gh_bool" type_code="1">true</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">14da5209-76e7-4158-9ee7-b9bf52a1bb1a</item>
+        <item name="MarshGuids" type_name="gh_bool" type_code="1">true</item>
+        <item name="MarshInputs" type_name="gh_bool" type_code="1">true</item>
+        <item name="MarshOutputs" type_name="gh_bool" type_code="1">true</item>
+        <item name="Name" type_name="gh_string" type_code="10">Python 3 Script</item>
+        <item name="NickName" type_name="gh_string" type_code="10">Py3</item>
+        <item name="ScriptComponentVersion" type_name="gh_int32" type_code="3">3</item>
+        <item name="Tooltip" type_name="gh_string" type_code="10"></item>
+        <item name="UsingLibraryInputParam" type_name="gh_bool" type_code="1">false</item>
+        <item name="UsingScriptInputParam" type_name="gh_bool" type_code="1">false</item>
+        <item name="UsingScriptOutputParam" type_name="gh_bool" type_code="1">false</item>
+        <item name="UsingStandardOutputParam" type_name="gh_bool" type_code="1">true</item>
+      </items>
+      <chunks count="3">
+        <chunk name="Attributes">
+          <items count="2">
+            <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+              <X>344</X>
+              <Y>181</Y>
+              <W>146</W>
+              <H>64</H>
+            </item>
+            <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+              <X>429</X>
+              <Y>213</Y>
+            </item>
+          </items>
+        </chunk>
+        <chunk name="ParameterData">
+          <items count="7">
+            <item name="InputCount" type_name="gh_int32" type_code="3">3</item>
+            <item name="InputId" index="0" type_name="gh_guid" type_code="9">08908df5-fa14-4982-9ab2-1aa0927566aa</item>
+            <item name="InputId" index="1" type_name="gh_guid" type_code="9">08908df5-fa14-4982-9ab2-1aa0927566aa</item>
+            <item name="InputId" index="2" type_name="gh_guid" type_code="9">08908df5-fa14-4982-9ab2-1aa0927566aa</item>
+            <item name="OutputCount" type_name="gh_int32" type_code="3">2</item>
+            <item name="OutputId" index="0" type_name="gh_guid" type_code="9">3ede854e-c753-40eb-84cb-b48008f14fd4</item>
+            <item name="OutputId" index="1" type_name="gh_guid" type_code="9">08908df5-fa14-4982-9ab2-1aa0927566aa</item>
+          </items>
+          <chunks count="5">
+            <chunk name="InputParam" index="0">
+              <items count="13">
+                <item name="AllowTreeAccess" type_name="gh_bool" type_code="1">true</item>
+                <item name="Description" type_name="gh_string" type_code="10">rhinoscriptsyntax geometry</item>
+                <item name="InstanceGuid" type_name="gh_guid" type_code="9">3e58e3f5-7979-4964-8516-75b2570057ce</item>
+                <item name="Name" type_name="gh_string" type_code="10">ClasseChapa</item>
+                <item name="NickName" type_name="gh_string" type_code="10">ClasseChapa</item>
+                <item name="Optional" type_name="gh_bool" type_code="1">true</item>
+                <item name="ScriptParamAccess" type_name="gh_int32" type_code="3">0</item>
+                <item name="ScriptParameterVersion" type_name="gh_int32" type_code="3">2</item>
+                <item name="ShowTypeHints" type_name="gh_bool" type_code="1">true</item>
+                <item name="Source" index="0" type_name="gh_guid" type_code="9">1716fc68-b2e2-43d4-8f76-6b12a0f1d021</item>
+                <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
+                <item name="ToolTip" type_name="gh_string" type_code="10"></item>
+                <item name="TypeHintID" type_name="gh_guid" type_code="9">1c282eeb-dd16-439f-94e4-7d92b542fe8b</item>
+              </items>
+              <chunks count="2">
+                <chunk name="Attributes">
+                  <items count="2">
+                    <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                      <X>346</X>
+                      <Y>183</Y>
+                      <W>68</W>
+                      <H>20</H>
+                    </item>
+                    <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                      <X>381.5</X>
+                      <Y>193</Y>
+                    </item>
+                  </items>
+                </chunk>
+                <chunk name="ConverterData">
+                  <items count="2">
+                    <item name="AssemblyName" type_name="gh_string" type_code="10">mscorlib</item>
+                    <item name="TypeName" type_name="gh_string" type_code="10">System.Object</item>
+                  </items>
+                </chunk>
+              </chunks>
+            </chunk>
+            <chunk name="InputParam" index="1">
+              <items count="14">
+                <item name="Access" type_name="gh_int32" type_code="3">1</item>
+                <item name="AllowTreeAccess" type_name="gh_bool" type_code="1">true</item>
+                <item name="Description" type_name="gh_string" type_code="10">Converts to collection of Breps (Boundary REPresentations)</item>
+                <item name="InstanceGuid" type_name="gh_guid" type_code="9">cdf92a4d-42bb-4497-ab54-02ba32c0a860</item>
+                <item name="Name" type_name="gh_string" type_code="10">srfs</item>
+                <item name="NickName" type_name="gh_string" type_code="10">srfs</item>
+                <item name="Optional" type_name="gh_bool" type_code="1">true</item>
+                <item name="ScriptParamAccess" type_name="gh_int32" type_code="3">1</item>
+                <item name="ScriptParameterVersion" type_name="gh_int32" type_code="3">2</item>
+                <item name="ShowTypeHints" type_name="gh_bool" type_code="1">true</item>
+                <item name="Source" index="0" type_name="gh_guid" type_code="9">113f2e40-06a4-451a-b781-6fb18766956d</item>
+                <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
+                <item name="ToolTip" type_name="gh_string" type_code="10"></item>
+                <item name="TypeHintID" type_name="gh_guid" type_code="9">2ceb0405-fdfe-403d-a4d6-8786da45fb9d</item>
+              </items>
+              <chunks count="2">
+                <chunk name="Attributes">
+                  <items count="2">
+                    <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                      <X>346</X>
+                      <Y>203</Y>
+                      <W>68</W>
+                      <H>20</H>
+                    </item>
+                    <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                      <X>381.5</X>
+                      <Y>213</Y>
+                    </item>
+                  </items>
+                </chunk>
+                <chunk name="ConverterData">
+                  <items count="2">
+                    <item name="AssemblyName" type_name="gh_string" type_code="10">RhinoCommon</item>
+                    <item name="TypeName" type_name="gh_string" type_code="10">Rhino.Geometry.Brep</item>
+                  </items>
+                </chunk>
+              </chunks>
+            </chunk>
+            <chunk name="InputParam" index="2">
+              <items count="13">
+                <item name="AllowTreeAccess" type_name="gh_bool" type_code="1">true</item>
+                <item name="Description" type_name="gh_string" type_code="10">Converts to collection of integer numbers</item>
+                <item name="InstanceGuid" type_name="gh_guid" type_code="9">d1658d82-2bf7-499e-8a3c-47627bf43550</item>
+                <item name="Name" type_name="gh_string" type_code="10">espessura</item>
+                <item name="NickName" type_name="gh_string" type_code="10">espessura</item>
+                <item name="Optional" type_name="gh_bool" type_code="1">true</item>
+                <item name="ScriptParamAccess" type_name="gh_int32" type_code="3">0</item>
+                <item name="ScriptParameterVersion" type_name="gh_int32" type_code="3">2</item>
+                <item name="ShowTypeHints" type_name="gh_bool" type_code="1">true</item>
+                <item name="Source" index="0" type_name="gh_guid" type_code="9">bf5f3a80-df1b-48f2-b909-71bdd739a350</item>
+                <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
+                <item name="ToolTip" type_name="gh_string" type_code="10"></item>
+                <item name="TypeHintID" type_name="gh_guid" type_code="9">48d01794-d3d8-4aef-990e-127168822244</item>
+              </items>
+              <chunks count="2">
+                <chunk name="Attributes">
+                  <items count="2">
+                    <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                      <X>346</X>
+                      <Y>223</Y>
+                      <W>68</W>
+                      <H>20</H>
+                    </item>
+                    <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                      <X>381.5</X>
+                      <Y>233</Y>
+                    </item>
+                  </items>
+                </chunk>
+                <chunk name="ConverterData">
+                  <items count="2">
+                    <item name="AssemblyName" type_name="gh_string" type_code="10">mscorlib</item>
+                    <item name="TypeName" type_name="gh_string" type_code="10">System.Int32</item>
+                  </items>
+                </chunk>
+              </chunks>
+            </chunk>
+            <chunk name="OutputParam" index="0">
+              <items count="6">
+                <item name="Description" type_name="gh_string" type_code="10">The execution information, as output and error streams</item>
+                <item name="InstanceGuid" type_name="gh_guid" type_code="9">c56a106d-e5ee-41b0-8de5-b32db0260775</item>
+                <item name="Name" type_name="gh_string" type_code="10">out</item>
+                <item name="NickName" type_name="gh_string" type_code="10">out</item>
+                <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+                <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+              </items>
+              <chunks count="1">
+                <chunk name="Attributes">
+                  <items count="2">
+                    <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                      <X>444</X>
+                      <Y>183</Y>
+                      <W>44</W>
+                      <H>30</H>
+                    </item>
+                    <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                      <X>466</X>
+                      <Y>198</Y>
+                    </item>
+                  </items>
+                </chunk>
+              </chunks>
+            </chunk>
+            <chunk name="OutputParam" index="1">
+              <items count="12">
+                <item name="AllowTreeAccess" type_name="gh_bool" type_code="1">false</item>
+                <item name="Description" type_name="gh_string" type_code="10">rhinoscriptsyntax geometry</item>
+                <item name="InstanceGuid" type_name="gh_guid" type_code="9">5009c0e7-3e2d-4a33-a283-d58c8530c238</item>
+                <item name="Name" type_name="gh_string" type_code="10">chapas</item>
+                <item name="NickName" type_name="gh_string" type_code="10">chapas</item>
+                <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+                <item name="ScriptParamAccess" type_name="gh_int32" type_code="3">0</item>
+                <item name="ScriptParameterVersion" type_name="gh_int32" type_code="3">2</item>
+                <item name="ShowTypeHints" type_name="gh_bool" type_code="1">true</item>
+                <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+                <item name="ToolTip" type_name="gh_string" type_code="10"></item>
+                <item name="TypeHintID" type_name="gh_guid" type_code="9">1c282eeb-dd16-439f-94e4-7d92b542fe8b</item>
+              </items>
+              <chunks count="2">
+                <chunk name="Attributes">
+                  <items count="2">
+                    <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                      <X>444</X>
+                      <Y>213</Y>
+                      <W>44</W>
+                      <H>30</H>
+                    </item>
+                    <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                      <X>466</X>
+                      <Y>228</Y>
+                    </item>
+                  </items>
+                </chunk>
+                <chunk name="ConverterData">
+                  <items count="2">
+                    <item name="AssemblyName" type_name="gh_string" type_code="10">mscorlib</item>
+                    <item name="TypeName" type_name="gh_string" type_code="10">System.Object</item>
+                  </items>
+                </chunk>
+              </chunks>
+            </chunk>
+          </chunks>
+        </chunk>
+        <chunk name="Script">
+          <items count="5">
+            <item name="MarshGuids" type_name="gh_bool" type_code="1">true</item>
+            <item name="MarshInputs" type_name="gh_bool" type_code="1">true</item>
+            <item name="MarshOutputs" type_name="gh_bool" type_code="1">true</item>
+            <item name="Text" type_name="gh_string" type_code="10">IiIiR3Jhc3Nob3BwZXIgU2NyaXB0IiIiDQpjaGFwYXMgPSBbXQ0KZm9yIGkgaW4gcmFuZ2UobGVuKHNyZnMpKToNCiAgICBjaGFwYSA9IENsYXNzZUNoYXBhKHNyZnNbaV0saSkNCiAgICBjaGFwYXMuYXBwZW5kKGNoYXBhKQ0KDQpmb3IgY2hhcGEgaW4gY2hhcGFzOg0KICAgIGNoYXBhLlNldFJlbGFjb2VzKGNoYXBhcyxlc3Blc3N1cmEp</item>
+            <item name="Title" type_name="gh_string" type_code="10">Py3</item>
+          </items>
+          <chunks count="1">
+            <chunk name="LanguageSpec">
+              <items count="2">
+                <item name="Taxon" type_name="gh_string" type_code="10">*.*.python</item>
+                <item name="Version" type_name="gh_string" type_code="10">3.*</item>
+              </items>
+            </chunk>
+          </chunks>
+        </chunk>
+      </chunks>
+    </chunk>
+  </chunks>
+</chunk>

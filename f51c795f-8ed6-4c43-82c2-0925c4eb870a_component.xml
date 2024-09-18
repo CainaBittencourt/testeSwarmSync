@@ -1,0 +1,108 @@
+<chunk name="Object" index="0">
+  <items count="3">
+    <item name="GUID" type_name="gh_guid" type_code="9">719467e6-7cf5-4848-99b0-c5dd57e5442c</item>
+    <item name="Lib" type_name="gh_guid" type_code="9">066d0a87-236f-4eae-a0f4-9e42f5327962</item>
+    <item name="Name" type_name="gh_string" type_code="10">Python 3 Script</item>
+  </items>
+  <chunks count="1">
+    <chunk name="Container">
+      <items count="15">
+        <item name="Description" type_name="gh_string" type_code="10"></item>
+        <item name="GraftStandardOutputLines" type_name="gh_bool" type_code="1">true</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">f51c795f-8ed6-4c43-82c2-0925c4eb870a</item>
+        <item name="MarshGuids" type_name="gh_bool" type_code="1">true</item>
+        <item name="MarshInputs" type_name="gh_bool" type_code="1">true</item>
+        <item name="MarshOutputs" type_name="gh_bool" type_code="1">true</item>
+        <item name="Name" type_name="gh_string" type_code="10">Python 3 Script</item>
+        <item name="NickName" type_name="gh_string" type_code="10">Py3</item>
+        <item name="ScriptComponentVersion" type_name="gh_int32" type_code="3">3</item>
+        <item name="Tooltip" type_name="gh_string" type_code="10"></item>
+        <item name="UsingLibraryInputParam" type_name="gh_bool" type_code="1">false</item>
+        <item name="UsingScriptInputParam" type_name="gh_bool" type_code="1">false</item>
+        <item name="UsingScriptOutputParam" type_name="gh_bool" type_code="1">false</item>
+        <item name="UsingStandardOutputParam" type_name="gh_bool" type_code="1">false</item>
+      </items>
+      <chunks count="3">
+        <chunk name="Attributes">
+          <items count="2">
+            <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+              <X>82</X>
+              <Y>148</Y>
+              <W>100</W>
+              <H>38</H>
+            </item>
+            <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+              <X>96</X>
+              <Y>167</Y>
+            </item>
+          </items>
+        </chunk>
+        <chunk name="ParameterData">
+          <items count="3">
+            <item name="InputCount" type_name="gh_int32" type_code="3">0</item>
+            <item name="OutputCount" type_name="gh_int32" type_code="3">1</item>
+            <item name="OutputId" index="0" type_name="gh_guid" type_code="9">08908df5-fa14-4982-9ab2-1aa0927566aa</item>
+          </items>
+          <chunks count="1">
+            <chunk name="OutputParam" index="0">
+              <items count="12">
+                <item name="AllowTreeAccess" type_name="gh_bool" type_code="1">false</item>
+                <item name="Description" type_name="gh_string" type_code="10">rhinoscriptsyntax geometry</item>
+                <item name="InstanceGuid" type_name="gh_guid" type_code="9">1716fc68-b2e2-43d4-8f76-6b12a0f1d021</item>
+                <item name="Name" type_name="gh_string" type_code="10">classeChapa</item>
+                <item name="NickName" type_name="gh_string" type_code="10">classeChapa</item>
+                <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+                <item name="ScriptParamAccess" type_name="gh_int32" type_code="3">0</item>
+                <item name="ScriptParameterVersion" type_name="gh_int32" type_code="3">2</item>
+                <item name="ShowTypeHints" type_name="gh_bool" type_code="1">true</item>
+                <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+                <item name="ToolTip" type_name="gh_string" type_code="10"></item>
+                <item name="TypeHintID" type_name="gh_guid" type_code="9">1c282eeb-dd16-439f-94e4-7d92b542fe8b</item>
+              </items>
+              <chunks count="2">
+                <chunk name="Attributes">
+                  <items count="2">
+                    <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                      <X>111</X>
+                      <Y>150</Y>
+                      <W>69</W>
+                      <H>34</H>
+                    </item>
+                    <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                      <X>145.5</X>
+                      <Y>167</Y>
+                    </item>
+                  </items>
+                </chunk>
+                <chunk name="ConverterData">
+                  <items count="2">
+                    <item name="AssemblyName" type_name="gh_string" type_code="10">mscorlib</item>
+                    <item name="TypeName" type_name="gh_string" type_code="10">System.Object</item>
+                  </items>
+                </chunk>
+              </chunks>
+            </chunk>
+          </chunks>
+        </chunk>
+        <chunk name="Script">
+          <items count="5">
+            <item name="MarshGuids" type_name="gh_bool" type_code="1">true</item>
+            <item name="MarshInputs" type_name="gh_bool" type_code="1">true</item>
+            <item name="MarshOutputs" type_name="gh_bool" type_code="1">true</item>
+            <item name="Text" type_name="gh_string" type_code="10">aW1wb3J0IFJoaW5vLkdlb21ldHJ5IGFzIHJnDQppbXBvcnQgbWF0aCBhcyBtDQppbXBvcnQgZ2hweXRob25saWIudHJlZWhlbHBlcnMgYXMgdGgNCg0KY2xhc3MgQ2hhcGFCcmVwOg0KICAgIGRlZiBfX2luaXRfXyhzZWxmLCBicmVwYmFzZSwgaW5kZXgpOg0KICAgICAgICBzZWxmLmluZGV4ID0gaW5kZXgNCiAgICAgICAgc2VsZi5CcmVwQmFzZSA9IGJyZXBiYXNlDQogICAgICAgIHNlbGYuQnJlcEZpbmFsID0gYnJlcGJhc2UNCiAgICAgICAgc2VsZi5yZWxhY29lcyA9IHt9DQogICAgDQogICAgIyByZXBhcmFtZXRyaXphIGEgc3VwZXJmw61jaWUgcGxhbmFyIGRlIHVtYSBicmVwIChzdXBlcmbDrWNpZSByZXRhbmd1bGFyIGUgc2VtIGZ1cm9zKQ0KICAgIGRlZiBSZXBhcmFtZXRlcml6ZShzZWxmKToNCiAgICAgICAgc3JmID0gc2VsZi5CcmVwQmFzZS5TdXJmYWNlc1swXQ0KICAgICAgICBpbnRlcnZhbF91ID0gcmcuSW50ZXJ2YWwoMCwgMSkNCiAgICAgICAgaW50ZXJ2YWxfdiA9IHJnLkludGVydmFsKDAsIDEpDQogICAgICAgIHNyZi5TZXREb21haW4oMCwgaW50ZXJ2YWxfdSkNCiAgICAgICAgc3JmLlNldERvbWFpbigxLCBpbnRlcnZhbF92KQ0KICAgICAgICByZXR1cm4gc3JmDQogICAgDQogICAgIyByZXRvcm5hIGxpc3RhIGRlIGN1cnZhcyBkYSBib3JkYSBlIGxpc3RhIGRlIHBlcmZ1cmHDp8O1ZXMgZGEgYnJlcA0KICAgIGRlZiBPdXRlcklubmVyQnJlcChzZWxmKToNCiAgICAgICAgY3J2cyA9IHNlbGYuQnJlcEJhc2UuRWRnZXMNCiAgICAgICAgbF9pbm5lciA9IFtdDQogICAgICAgIGxfb3V0ZXIgPSBbXQ0KICAgICAgICBmb3IgaSBpbiBjcnZzOg0KICAgICAgICAgICAgaWYgaS5WYWxlbmNlID09IHJnLkVkZ2VBZGphY2VuY3kuTmFrZWQ6DQogICAgICAgICAgICAgICAgaW5uZXIgPSBGYWxzZQ0KICAgICAgICAgICAgICAgIGZvciB0aSBpbiBpLlRyaW1JbmRpY2VzKCk6DQogICAgICAgICAgICAgICAgICAgIGxvb3AgPSBzZWxmLkJyZXBCYXNlLlRyaW1zW3RpXS5Mb29wDQogICAgICAgICAgICAgICAgICAgIGlmIGxvb3AuTG9vcFR5cGUgPT0gcmcuQnJlcExvb3BUeXBlLklubmVyOiAgbF9pbm5lci5hcHBlbmQoaSkNCiAgICAgICAgICAgICAgICAgICAgZWxzZTogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsX291dGVyLmFwcGVuZChpKQ0KICAgICAgICByZXR1cm4gbF9vdXRlciwgbF9pbm5lcg0KDQogICAgI2FsdGVyYWRvIENhaW7DoyAxOC8wOSwgbGluaGEgNDQNCiAgICAjIHJldG9ybmEgbyBwbGFubyBlIG8gY2VudHJvDQogICAgZGVmIFBsYW5lU3JmQ2VudGVyKHNlbGYpOg0KICAgICAgICBzcmYgPSBzZWxmLlJlcGFyYW1ldGVyaXplKCkNCiAgICAgICAgY2VudGVyID0gc3JmLlBvaW50QXQoLjUsIC41KQ0KICAgICAgICBpZiB0eXBlKHNyZikgPT0gcmcuUGxhbmVTdXJmYWNlOg0KICAgICAgICAgICAgcmV0dXJuIHNyZi5QbGFuZSwgY2VudGVyDQogICAgICAgIGVsaWYgdHlwZShzcmYpID09IHJnLk51cmJzU3VyZmFjZToNCiAgICAgICAgICAgIGNydiA9IHJnLkN1cnZlLkpvaW5DdXJ2ZXMoc2VsZi5PdXRlcklubmVyQnJlcCgpWzBdKQ0KICAgICAgICAgICAgYnJlcCA9IHJnLkJyZXAuQ3JlYXRlUGxhbmFyQnJlcHMoY3J2KQ0KICAgICAgICAgICAgc3JmID0gQ2hhcGFCcmVwKGJyZXBbMF0sMCkuUmVwYXJhbWV0ZXJpemUoKQ0KICAgICAgICAgICAgY2VudGVyID0gc3JmLlBvaW50QXQoLjUsIC41KQ0KICAgICAgICAgICAgcmV0dXJuIHNyZi5QbGFuZSwgY2VudGVyDQoNCiAgICAjIHJldG9ybmEgYSByZWxhY2FvIGRlIHVtIHBvbnRvIHF1YWxxdWVyIGNvbSBhIHN1cGVyZsOtY2llDQogICAgZGVmIFBvaW50UmVsYXQoc2VsZiwgcG9pbnQpOg0KICAgICAgICBjcnYgPSByZy5DdXJ2ZS5Kb2luQ3VydmVzKHNlbGYuT3V0ZXJJbm5lckJyZXAoKVswXSlbMF0NCiAgICAgICAgcGxuID0gc2VsZi5QbGFuZVNyZkNlbnRlcigpWzBdDQogICAgICAgIHJldHVybiBjcnYuQ29udGFpbnMocG9pbnQsIHBsbiwgMC4wMDEpDQoNCiAgICAjIHJldG9ybmEgdGVzdGUsIGN1cnZhcyBlIHBvbnRvcyBkZSBpbnRlcnNlY8Onw6NvIGNvbSBvdXRyYSBicmVwLCBjYXNvIGV4aXN0YW0NCiAgICBkZWYgSW50ZXJzZWN0aW9uKHNlbGYsIGJyZXApOg0KICAgICAgICB2ZXJpZiwgY3J2cywgcHRzID0gcmcuSW50ZXJzZWN0LkludGVyc2VjdGlvbi5CcmVwQnJlcChzZWxmLkJyZXBCYXNlLCBicmVwLCAwLjAwMSkNCiAgICAgICAgDQogICAgICAgIGlmIGxlbihjcnZzKSA9PSAxOiBjcnYgPSBjcnZzWzBdDQogICAgICAgIGVsaWYgbGVuKGNydnMpID4gMToNCiAgICAgICAgICAgIGNydiA9IFtdDQogICAgICAgICAgICBmb3IgaSBpbiBjcnZzOiBjcnYuYXBwZW5kKGkpDQogICAgICAgIGVsc2U6IHBhc3MNCg0KICAgICAgICBpZiBsZW4ocHRzKSA9PSAxOiBwdCA9IHB0c1swXQ0KICAgICAgICBlbGlmIGxlbihwdHMpID4gMToNCiAgICAgICAgICAgIHB0ID0gW10NCiAgICAgICAgICAgIGZvciBpIGluIHB0czogcHQuYXBwZW5kKGkpDQogICAgICAgIGVsc2U6IHBhc3MNCg0KICAgICAgICBpZiBsZW4oY3J2cykgPT0gMCBhbmQgbGVuKHB0cykgPT0gMDogICAgcmV0dXJuIHZlcmlmLCBsZW4oY3J2cyksIGxlbihwdHMpDQogICAgICAgIGVsaWYgbGVuKGNydnMpID4gMCBhbmQgbGVuKHB0cykgPT0gMDogICByZXR1cm4gdmVyaWYsIGNydiwgbGVuKHB0cykNCiAgICAgICAgZWxpZiBsZW4oY3J2cykgPT0gMCBhbmQgbGVuKHB0cykgPiAwOiAgIHJldHVybiB2ZXJpZiwgbGVuKGNydnMpLCBwdA0KICAgICAgICBlbHNlOiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHZlcmlmLCBjcnYsIHB0DQoNCiAgICAjIHJldG9ybmEgbGlzdGEgZGUgcG9udG9zIGluaWNpYWlzIGUgZmluYWlzIGRlIGludGVyc2Vjw6fDo28gY29tIG91dHJhIGJyZXANCiAgICBkZWYgQ3J2SW50UG9pbnRzKHNlbGYsIGJyZXApOg0KICAgICAgICBjcnYgPSBzZWxmLkludGVyc2VjdGlvbihicmVwKVsxXQ0KICAgICAgICBzcHQgPSBbXQ0KICAgICAgICBlcHQgPSBbXQ0KICAgICAgICBpZiB0eXBlKGNydikgPT0gbGlzdDoNCiAgICAgICAgICAgIGZvciBpIGluIGNydjoNCiAgICAgICAgICAgICAgICBzcHQuYXBwZW5kKGkuUG9pbnRBdFN0YXJ0KQ0KICAgICAgICAgICAgICAgIGVwdC5hcHBlbmQoaS5Qb2ludEF0RW5kKQ0KICAgICAgICAgICAgcmV0dXJuIHNwdCwgZXB0DQogICAgICAgIGVsc2U6DQogICAgICAgICAgICBzcHQuYXBwZW5kKGNydi5Qb2ludEF0U3RhcnQpDQogICAgICAgICAgICBlcHQuYXBwZW5kKGNydi5Qb2ludEF0RW5kKQ0KICAgICAgICAgICAgcmV0dXJuIHNwdCwgZXB0DQogICAgDQogICAgIyByZXRvcm5hIHNlIGEgcmVsYWNhbyBjb20gYSBvdXRyYSBicmVwIMOpIGVtIHN1YSBib3JkYSBvdSBlbSBzdWEgZmFjZQ0KICAgIGRlZiBCb3JkYUZhY2Uoc2VsZiwgYnJlcCk6DQogICAgICAgIHRlc3RlID0gc2VsZi5JbnRlcnNlY3Rpb24oYnJlcClbMV0NCiAgICAgICAgaWYgdGVzdGUgIT0gMDoNCiAgICAgICAgICAgIHB0XzAgPSBzZWxmLkNydkludFBvaW50cyhicmVwKVswXVswXQ0KICAgICAgICAgICAgcHRfMSA9IHNlbGYuQ3J2SW50UG9pbnRzKGJyZXApWzFdWy0xXQ0KICAgICAgICAgICAgcHRfMiA9IChwdF8wICsgcHRfMSkvMg0KICAgICAgICAgICAgdmVyaWYwID0gc2VsZi5Qb2ludFJlbGF0KHB0XzApDQogICAgICAgICAgICB2ZXJpZjEgPSBzZWxmLlBvaW50UmVsYXQocHRfMSkNCiAgICAgICAgICAgIHZlcmlmMiA9IHNlbGYuUG9pbnRSZWxhdChwdF8yKQ0KDQogICAgICAgICAgICBpZiB2ZXJpZjAgPT0gdmVyaWYxID09IHZlcmlmMiA9PSByZy5Qb2ludENvbnRhaW5tZW50LkNvaW5jaWRlbnQ6IHJldHVybiAnYm9yZGEnDQogICAgICAgICAgICBlbGlmIHZlcmlmMCA9PSB2ZXJpZjEgPT0gcmcuUG9pbnRDb250YWlubWVudC5JbnNpZGU6IHJldHVybiAnZmFjZScNCiAgICAgICAgICAgIGVsaWYgdmVyaWYwID09IHJnLlBvaW50Q29udGFpbm1lbnQuQ29pbmNpZGVudCBhbmQgdmVyaWYxID09IHJnLlBvaW50Q29udGFpbm1lbnQuSW5zaWRlOiByZXR1cm4gJ2ZhY2UnDQogICAgICAgICAgICBlbGlmIHZlcmlmMCA9PSByZy5Qb2ludENvbnRhaW5tZW50Lkluc2lkZSBhbmQgdmVyaWYxID09IHJnLlBvaW50Q29udGFpbm1lbnQuQ29pbmNpZGVudDogcmV0dXJuICdmYWNlJw0KICAgICAgICAgICAgZWxpZiB2ZXJpZjAgPT0gdmVyaWYxID09IHJnLlBvaW50Q29udGFpbm1lbnQuQ29pbmNpZGVudCBhbmQgdmVyaWYyID09IHJnLlBvaW50Q29udGFpbm1lbnQuSW5zaWRlOiByZXR1cm4gJ2ZhY2UnDQogICAgICAgICAgICBlbGlmIHZlcmlmMCA9PSB2ZXJpZjEgPT0gcmcuUG9pbnRDb250YWlubWVudC5Db2luY2lkZW50IGFuZCB2ZXJpZjIgPT0gcmcuUG9pbnRDb250YWlubWVudC5PdXRzaWRlOiByZXR1cm4gJ2ZhY2UnDQogICAgICAgICAgICBlbHNlOiByZXR1cm4NCiAgICAgICAgZWxzZTogcmV0dXJuICdzZW0gcmVsYWNhbycNCiAgICANCiAgICAjIHJldG9ybmEgcmVsYWNhbyBlbnRyZSBhcyBjaGFwYXMNCiAgICAjIGFsdGVyYWRvIENhaW7DoyAxOC8wOSwgcmVjZWJlIHVtIG9iamV0byBDaGFwYUJyZXAgZW0gdmV6IGRlIGNyaWFyIGRlbnRybyBkYSBmdW7Dp8Ojbw0KICAgICMgYWx0ZXJhZG8gQ2FpbsOjIDE4LzA5LCBhcGVuYXMgcmV0b3JuYSBhIHJlbGHDp8OjbyBkbyBlbmNhaXhlIG5hIHByw7NwcmlhIGNoYXBhDQogICAgZGVmIFJlbGFjYW9DaGFwYXMoc2VsZiwgY2hhcGEsIGVzcCk6DQogICAgICAgIHJlbGFjMCA9IHNlbGYuQm9yZGFGYWNlKGNoYXBhLkJyZXBCYXNlKQ0KICAgICAgICBpZiByZWxhYzAgIT0gJ3NlbSByZWxhY2FvJzoNCiAgICAgICAgICAgIHBsXzAgPSBzZWxmLlBsYW5lU3JmQ2VudGVyKClbMF0NCiAgICAgICAgICAgIHBsXzEgPSBjaGFwYS5QbGFuZVNyZkNlbnRlcigpWzBdDQogICAgICAgICAgICBuXzAgPSBwbF8wLk5vcm1hbA0KICAgICAgICAgICAgbl8xID0gcGxfMS5Ob3JtYWwNCg0KICAgICAgICAgICAgaWYgcmVsYWMwID09ICdib3JkYSc6DQogICAgICAgICAgICAgICAgcmVsYWMxID0gY2hhcGEuQm9yZGFGYWNlKHNlbGYuQnJlcEJhc2UpDQogICAgICAgICAgICAgICAgaWYgcmVsYWMxID09ICdib3JkYSc6DQogICAgICAgICAgICAgICAgICAgIGlmIHBsXzAuSXNDb3BsYW5hcihwbF8xKSA9PSBUcnVlOiAgICAgICAgICAgcmV0dXJuIHJlbGFjMCwgJ2NvcGxhbmFyJw0KICAgICAgICAgICAgICAgICAgICBlbGlmIG5fMC5Jc1BlcnBlbmRpY3VsYXJUbyhuXzEpID09IFRydWU6ICAgIHJldHVybiByZWxhYzAsICdwZXJwZW5kaWN1bGFyJw0KICAgICAgICAgICAgICAgICAgICBlbHNlOiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiByZWxhYzAsICdvYmxpcXVvJw0KICAgICAgICAgICAgICAgIGVsaWYgcmVsYWMxID09ICdmYWNlJzoNCiAgICAgICAgICAgICAgICAgICAgaWYgbl8wLklzUGVycGVuZGljdWxhclRvKG5fMSkgPT0gVHJ1ZTogICAgICByZXR1cm4gcmVsYWMwLCAncGVycGVuZGljdWxhcicNCiAgICAgICAgICAgICAgICAgICAgZWxzZTogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVsYWMwLCAnb2JsaXF1bycNCiAgICAgICAgICAgICAgICBlbHNlOiByZXR1cm4NCiAgICAgICAgICAgIGVsaWYgcmVsYWMwID09ICdmYWNlJzoNCiAgICAgICAgICAgICAgICByZWxhYzEgPSBjaGFwYS5Cb3JkYUZhY2Uoc2VsZi5CcmVwQmFzZSkNCiAgICAgICAgICAgICAgICBpZiByZWxhYzEgPT0gJ2JvcmRhJzoNCiAgICAgICAgICAgICAgICAgICAgaWYgbl8wLklzUGVycGVuZGljdWxhclRvKG5fMSkgPT0gVHJ1ZTogICAgICByZXR1cm4gcmVsYWMwLCAncGVycGVuZGljdWxhcicNCiAgICAgICAgICAgICAgICAgICAgZWxzZTogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVsYWMwLCAnb2JsaXF1bycNCiAgICAgICAgICAgICAgICBlbGlmIHJlbGFjMSA9PSAnZmFjZSc6DQogICAgICAgICAgICAgICAgICAgIGlmIG5fMC5Jc1BlcnBlbmRpY3VsYXJUbyhuXzEpID09IFRydWU6ICAgICAgcmV0dXJuICdpbnRlcnNlY2FvJywgJ3BlcnBlbmRpY3VsYXInDQogICAgICAgICAgICAgICAgICAgIGVsc2U6ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuICdpbnRlcnNlY2FvJywgJ29ibGlxdW8nDQogICAgICAgICAgICAgICAgZWxzZTogcmV0dXJuDQogICAgICAgICAgICBlbHNlOiByZXR1cm4NCiAgICAgICAgZWxzZToNCiAgICAgICAgICAgIHB0XzAgPSBzZWxmLlBsYW5lU3JmQ2VudGVyKClbMV0NCiAgICAgICAgICAgIHB0XzEgPSBjaGFwYS5QbGFuZVNyZkNlbnRlcigpWzFdDQogICAgICAgICAgICBkaXN0ID0gcHRfMC5EaXN0YW5jZVRvKHB0XzEpDQogICAgICAgICAgICBpZiBkaXN0ID09IGVzcDogICAgIHJldHVybiAnanVzdGFwb3N0YScNCiAgICAgICAgICAgIGVsc2U6ICAgICAgICAgICAgICAgcmV0dXJuICdzZW0gcmVsYcOnw6NvJw0KICAgICAgICAjIHNlIMOpIHNlbSByZWxhw6fDo28sIHF1YWwgYSBkaXN0YW5jaWEgZW50cmUgZWxhcw0KICAgICAgICAjIHNlIGEgZGlzdGFuY2lhIGZvciBhIGVzcGVzc3VyYSBkYSBjaGFwYSwgZWxhcyBzw6NvIHBhcmFsZWxhLWp1c3RhcG9zdGENCg0KICAgICMgcmV0b3JuYSBvIENvbXBvbmVudEluZGV4IGRlIHVtYSBhcmVzdGEgYSBzZXIgbW92aWRhIGUgYSBwcsOzcHJpYSBhcmVzdGENCiAgICBkZWYgSW5kZXhBcmVzdGEoc2VsZiwgYnJlcCk6DQogICAgICAgIGxjcnZzID0gc2VsZi5PdXRlcklubmVyQnJlcCgpWzBdDQogICAgICAgIHB0XzAgPSBzZWxmLkNydkludFBvaW50cyhicmVwKVswXVswXQ0KICAgICAgICBwdF8xID0gc2VsZi5DcnZJbnRQb2ludHMoYnJlcClbMV1bLTFdDQogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbihsY3J2cykpOg0KICAgICAgICAgICAgdGVzdDAgPSBsY3J2c1tpXS5DbG9zZXN0UG9pbnQocHRfMCwgMC4wMDEpDQogICAgICAgICAgICB0ZXN0MSA9IGxjcnZzW2ldLkNsb3Nlc3RQb2ludChwdF8xLCAwLjAwMSkNCiAgICAgICAgICAgIGlmIHRlc3QwWzBdID09IHRlc3QxWzBdID09IFRydWU6DQogICAgICAgICAgICAgICAgcmV0dXJuIFtzZWxmLk91dGVySW5uZXJCcmVwKClbMF1baV0uQ29tcG9uZW50SW5kZXgoKV0sIHNlbGYuT3V0ZXJJbm5lckJyZXAoKVswXVtpXQ0KDQogICAgIyB2ZXRvcmVzIGRhcyByZWxhw6fDtWVzIGVudHJlIGFzIGNoYXBhcyBwYXJhIG1vdmVyIGFzIGFyZXN0YXMNCiAgICBkZWYgVmVjdG9yVHJhbnNmb3JtKHNlbGYsIGJyZXApOg0KICAgICAgICB2ZWNicmVwID0gQ2hhcGFCcmVwKGJyZXApLlBsYW5lU3JmQ2VudGVyKClbMF0uTm9ybWFsDQogICAgICAgIHB0MCA9IHNlbGYuUGxhbmVTcmZDZW50ZXIoKVsxXQ0KICAgICAgICBhciA9IHNlbGYuSW5kZXhBcmVzdGEoYnJlcClbMV0NCiAgICAgICAgcHQxID0gKGFyLlBvaW50QXRFbmQgKyBhci5Qb2ludEF0U3RhcnQpIC8gMg0KICAgICAgICB2ZWNzZWxmID0gcmcuTGluZShwdDAsIHB0MSkuRGlyZWN0aW9uDQogICAgICAgIHZlY3NlbGYuVW5pdGl6ZSgpDQogICAgICAgIGFuZyA9IG0uZGVncmVlcyhyZy5WZWN0b3IzZC5WZWN0b3JBbmdsZSh2ZWNzZWxmLCB2ZWNicmVwKSkNCiAgICAgICAgcmV0dXJuIHZlY3NlbGYNCiAgICANCiAgICAjIG1vdmVyIGFyZXN0YQ0KICAgICMgc8OzIMOpIHBhcmEgc2VyIHVzYWRvIHBlbGFzIHBlw6dhcyBxdWUgdsOjbyB0ZXIgcXVlIHNlciBleHBhbmRpZGFzDQogICAgZGVmIEJyZXBUcmFuc2Zvcm0oc2VsZiwgYnJlcCwgZXNwLCB2LCBhKToNCiAgICAgICAgdmVjID0gdiAqIChlc3AvMikNCiAgICAgICAgeGZvcm0gPSByZy5UcmFuc2Zvcm0uVHJhbnNsYXRpb24odmVjKQ0KICAgICAgICBuZXdCcmVwID0gc2VsZi5CcmVwQmFzZS5EdXBsaWNhdGVCcmVwKCkNCiAgICAgICAgdCA9IG5ld0JyZXAuVHJhbnNmb3JtQ29tcG9uZW50KGEsIHhmb3JtLCAwLjAwMSwgMCwgRmFsc2UpDQogICAgICAgIHJldHVybiBuZXdCcmVwDQoNCiAgICAjIGFzc29jaWEgYXMgcmVsYcOnw7VlcyBhIHVtIGRpY2lvbsOhcmlvIHBhcmEgc2VyIGFjZXNzYWRvIGVtIG91dHJvIGNvbXBvbmVudGVzDQogICAgIyBjcmlhZG8gQ2FpbsOjIDE4LzA5LCANCiAgICBkZWYgU2V0UmVsYWNvZXMoc2VsZixjaGFwYXMsZXNwKToNCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKGNoYXBhcykpOg0KICAgICAgICAgICAgaWYgaSA9PSBzZWxmLmluZGV4Og0KICAgICAgICAgICAgICAgIGNvbnRpbnVlDQogICAgICAgICAgICBzZWxmLnJlbGFjb2VzW2ldID0gc2VsZi5SZWxhY2FvQ2hhcGFzKGNoYXBhc1tpXSwgZXNwKQ0KDQogICAgIyB0cm9jYSBvIHNlbGYuQnJlcEJhc2UgcGVsYSBub3ZvIGJyZXAgY29tIG8gZW5jYWl4ZSBkZXNlbmhhZG8NCiAgICAjY3JpYWRvIENhaW7DoyAxOC8wOQ0KICAgIGRlZiBTdWJpc3RpdHVpQnJlcEJhc2Uoc2VsZixicmVwKToNCiAgICAgICAgc2VsZi5CcmVwRmluYWwgPSBicmVwDQoNCiMgZXhwb3J0YSBhIGNsYXNzZSBwYXJhIG91dHJvIGNvbXBvbmVudGUNCmNsYXNzZUNoYXBhID0gQ2hhcGFCcmVw</item>
+            <item name="Title" type_name="gh_string" type_code="10">Py3</item>
+          </items>
+          <chunks count="1">
+            <chunk name="LanguageSpec">
+              <items count="2">
+                <item name="Taxon" type_name="gh_string" type_code="10">*.*.python</item>
+                <item name="Version" type_name="gh_string" type_code="10">3.*</item>
+              </items>
+            </chunk>
+          </chunks>
+        </chunk>
+      </chunks>
+    </chunk>
+  </chunks>
+</chunk>
